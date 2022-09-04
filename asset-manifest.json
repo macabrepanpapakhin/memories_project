@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e210e9b8.css",
+    "main.js": "/static/js/main.d9b65c0b.js",
+    "static/media/memorylogo.png": "/static/media/memorylogo.3515da33ee4d0081b288.png",
+    "static/media/memories.png": "/static/media/memories.1da1618a25db77f61ac5.png",
+    "static/media/memeorytext.png": "/static/media/memeorytext.74e162caf11c5ae41d58.png",
+    "index.html": "/index.html",
+    "main.e210e9b8.css.map": "/static/css/main.e210e9b8.css.map",
+    "main.d9b65c0b.js.map": "/static/js/main.d9b65c0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e210e9b8.css",
+    "static/js/main.d9b65c0b.js"
+  ]
+}
